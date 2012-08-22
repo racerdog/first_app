@@ -1,3 +1,8 @@
+
+First application
+This is the first application I'm writing for "Rails Tutorial." 
+The other stuff below is the boilerplate from the default Rails README file. I suppose I should delete it at some point.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
